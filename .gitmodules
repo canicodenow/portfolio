@@ -8,3 +8,6 @@
 	path = public
 	url = git@github.com:canicodenow/canicodenow.github.io.git
 	branch = master
+[submodule "hugo-coder"]
+	path = hugo-coder
+	url = https://github.com/luizdepra/hugo-coder
