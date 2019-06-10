@@ -15,7 +15,7 @@ pygmentscodefencesguesssyntax = true
 
 disqusShortname = "yourdiscussshortname"
 
-publishDir = "canicodenow.github.io"
+publishDir = "public"
 
 [params]
     author = "Matthew Domm"
