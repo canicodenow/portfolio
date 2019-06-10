@@ -1,4 +1,4 @@
-baseurl = "https://canicodenow.github.io/"
+baseurl = "https://canicodenow.github.io/portfolio"
 title = "canicodenow"
 
 theme = "hugo-coder"
@@ -14,8 +14,6 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 disqusShortname = "yourdiscussshortname"
-
-publishDir = "public"
 
 [params]
     author = "Matthew Domm"
