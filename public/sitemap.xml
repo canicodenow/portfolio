@@ -3,96 +3,96 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://canicodenow.github.io/series/goals/</loc>
+    <loc>https://canicodenow.github.io/portfolio/series/goals/</loc>
     <lastmod>2019-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://canicodenow.github.io/posts/my-situation/</loc>
+    <loc>https://canicodenow.github.io/portfolio/posts/my-situation/</loc>
     <lastmod>2019-06-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://canicodenow.github.io/posts/</loc>
-    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://canicodenow.github.io/series/progress/</loc>
+    <loc>https://canicodenow.github.io/portfolio/posts/</loc>
     <lastmod>2019-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://canicodenow.github.io/series/</loc>
+    <loc>https://canicodenow.github.io/portfolio/series/progress/</loc>
     <lastmod>2019-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://canicodenow.github.io/tags/</loc>
+    <loc>https://canicodenow.github.io/portfolio/series/</loc>
     <lastmod>2019-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://canicodenow.github.io/</loc>
+    <loc>https://canicodenow.github.io/portfolio/tags/</loc>
     <lastmod>2019-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://canicodenow.github.io/tags/goals/</loc>
+    <loc>https://canicodenow.github.io/portfolio/</loc>
     <lastmod>2019-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://canicodenow.github.io/tags/odin/</loc>
+    <loc>https://canicodenow.github.io/portfolio/tags/goals/</loc>
     <lastmod>2019-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://canicodenow.github.io/tags/updates/</loc>
+    <loc>https://canicodenow.github.io/portfolio/tags/odin/</loc>
     <lastmod>2019-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://canicodenow.github.io/series/hugo/</loc>
+    <loc>https://canicodenow.github.io/portfolio/tags/updates/</loc>
+    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://canicodenow.github.io/portfolio/series/hugo/</loc>
     <lastmod>2017-01-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://canicodenow.github.io/series/theme/</loc>
+    <loc>https://canicodenow.github.io/portfolio/series/theme/</loc>
     <lastmod>2017-01-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://canicodenow.github.io/posts/theme-demo/</loc>
+    <loc>https://canicodenow.github.io/portfolio/posts/theme-demo/</loc>
     <lastmod>2017-01-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://canicodenow.github.io/about/</loc>
+    <loc>https://canicodenow.github.io/portfolio/about/</loc>
   </url>
   
   <url>
-    <loc>https://canicodenow.github.io/categories/</loc>
+    <loc>https://canicodenow.github.io/portfolio/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://canicodenow.github.io/contact/</loc>
+    <loc>https://canicodenow.github.io/portfolio/contact/</loc>
   </url>
   
   <url>
-    <loc>https://canicodenow.github.io/projects/</loc>
+    <loc>https://canicodenow.github.io/portfolio/projects/</loc>
   </url>
   
 </urlset>

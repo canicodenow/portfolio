@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on canicodenow</title>
-    <link>https://canicodenow.github.io/tags/</link>
+    <link>https://canicodenow.github.io/portfolio/tags/</link>
     <description>Recent content in Tags on canicodenow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 07 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://canicodenow.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://canicodenow.github.io/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>goals</title>
-      <link>https://canicodenow.github.io/tags/goals/</link>
+      <link>https://canicodenow.github.io/portfolio/tags/goals/</link>
       <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://canicodenow.github.io/tags/goals/</guid>
+      <guid>https://canicodenow.github.io/portfolio/tags/goals/</guid>
       <description></description>
     </item>
     
     <item>
       <title>odin</title>
-      <link>https://canicodenow.github.io/tags/odin/</link>
+      <link>https://canicodenow.github.io/portfolio/tags/odin/</link>
       <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://canicodenow.github.io/tags/odin/</guid>
+      <guid>https://canicodenow.github.io/portfolio/tags/odin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>updates</title>
-      <link>https://canicodenow.github.io/tags/updates/</link>
+      <link>https://canicodenow.github.io/portfolio/tags/updates/</link>
       <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://canicodenow.github.io/tags/updates/</guid>
+      <guid>https://canicodenow.github.io/portfolio/tags/updates/</guid>
       <description></description>
     </item>
     
